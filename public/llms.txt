@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# My Coffee — Generative Engine Optimization Map
+
+> A מסעדנות ואוכל business.
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://my-coffee.zappy5.app
 My Coffee - בית קפה מודרני המציע קפה איכותי, אווירה משפחתית וחוויה קולינרית ייחודית. בואו ליהנות מקפה טרי קלוי במקום.
 
 ### Menu
-https://example.com/menu
+https://my-coffee.zappy5.app/menu
 גלו את תפריט My Coffee המגוון - משקאות קפה חמים וקרים, משקאות מיוחדים, מאפים טריים ועוד. כל המוצרים שלנו מוכנים בקפידה מפולי קפה טריים.
 
 ### About
-https://example.com/about
+https://my-coffee.zappy5.app/about
 הכירו את הסיפור של My Coffee - מקלטת בוטיק ובית קפה משפחתי שמחויב לאיכות, קהילה וקפה מעולה. למדו על הערכים והחזון שלנו.
 
 ### Contact
-https://example.com/contact
+https://my-coffee.zappy5.app/contact
 צרו קשר עם My Coffee - נשמח לשמוע מכם! בקרו אותנו, התקשרו או שלחו הודעה. אנחנו כאן בשבילכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://my-coffee.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://my-coffee.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://my-coffee.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About My Coffee
+My Coffee is a business in the מסעדנות ואוכל industry.
+
+## Target Audience
+משפחות וחובבי קפה
+
+## Industry
+מסעדנות ואוכל
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://my-coffee.zappy5.app/sitemap.xml
+- **Robots.txt**: https://my-coffee.zappy5.app/robots.txt
